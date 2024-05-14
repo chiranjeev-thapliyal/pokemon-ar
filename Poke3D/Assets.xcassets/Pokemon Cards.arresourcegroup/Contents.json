@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "eevee-card.arreferenceimage"
+    },
+    {
+      "filename" : "lapras-card.arreferenceimage"
+    },
+    {
+      "filename" : "luxray-card.arreferenceimage"
+    },
+    {
+      "filename" : "pikachu-card.arreferenceimage"
+    },
+    {
+      "filename" : "regigigas-card.arreferenceimage"
+    },
+    {
+      "filename" : "simisear-card.arreferenceimage"
+    },
+    {
+      "filename" : "zacian-card.arreferenceimage"
+    }
+  ]
+}
